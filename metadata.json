@@ -1,0 +1,5 @@
+{
+  "name": "Birthday Celebration",
+  "description": "A magical 4-page birthday wish experience with interactive cake, music, and animations.",
+  "requestFramePermissions": ["microphone"]
+}
